@@ -1,5 +1,3 @@
-# helloworld
-Testing testing 123
 void startup(){
 screen(600,600);
 background(0);
